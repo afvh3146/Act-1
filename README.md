@@ -1,6 +1,9 @@
-Para el readme:
 # Taller 01 – Análisis Exploratorio de Datos (EDA)
 ## Gaming Hours vs Academic and Work Performance
+
+Participantes
+- Andrés Felipe Velasco Hernández
+- Juan Miguel Gómez Alzate
 
 Este repositorio presenta el desarrollo del Taller 01 de Análisis Exploratorio de Datos (EDA), realizado en el marco de la Maestría en Ciencias de los Datos y Analítica de la Universidad EAFIT. El trabajo se estructura a partir de la metodología CRISP-DM y tiene como propósito analizar la relación entre el uso de videojuegos y el desempeño académico o laboral, desde una perspectiva orientada a la toma de decisiones institucionales.
 
